@@ -1,0 +1,2 @@
+main.py é onde se encontra a estrutura do codigo
+secrets.py é onde se encontra as KEYS
